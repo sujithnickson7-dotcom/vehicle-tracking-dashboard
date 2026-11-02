@@ -273,8 +273,8 @@ Some of the challenges I worked through:
 
 ## 👤 Author
 
-**Name:** `<Your Name>`
-**GitHub:** [`<your-username>`](https://github.com/<your-username>)
+**Name:** `<NICKSON SUJITH>`
+**GitHub:** [`<sujithnickson7>`](https://github.com/<your-username>)
 
 I am learning Computer Vision step by step and sharing my progress through hands-on projects. Feedback, suggestions, and advice from more experienced developers are always welcome. Feel free to open an issue or reach out.
 
